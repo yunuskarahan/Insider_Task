@@ -1,5 +1,6 @@
 Feature: Insider Task
 
+  @test1
   Scenario: task
     Given  the user is on the home page
     Then the user should see the "#1 Leader in Individualized, Cross-Channel CX — Insider"in the title on the homepage
